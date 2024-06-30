@@ -56,4 +56,6 @@ body{
   input[type="submit"]{
     display:block;
     width:60%;
+    width: 60vw;
+    margin: 0 auto;
   }
